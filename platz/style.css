@@ -242,7 +242,7 @@ body,html{
     height:100%;
 	background-color:rgba(34, 34, 34, 0.95);
 	left:-100%;
-	z-index:10000; !important
+	z-index:10000; 
 }
 
 .container-menu{
@@ -719,7 +719,7 @@ body,html{
 }
 }
 
-/* Small viewports — Old monitors, netbooks, tablets (landscape), etc. */
+/* Small viewports ï¿½ Old monitors, netbooks, tablets (landscape), etc. */
  
 @media only screen and (max-width: 965px) {
 #main-header,.navbar,.container,.container-footer,.thank,.oldnew,.copyright {
@@ -757,7 +757,7 @@ body,html{
 }
 }
 
-/* Smaller viewports — more tablets, old monitors */
+/* Smaller viewports ï¿½ more tablets, old monitors */
  
 @media only screen and (max-width: 860px) {
 #main-header,.navbar,.container,.container-footer,.thank,.oldnew,.copyright {
@@ -769,7 +769,7 @@ body,html{
 }
 }
 
-/* Even smaller viewports — more tablets, etc. */
+/* Even smaller viewports ï¿½ more tablets, etc. */
  
 @media only screen and (max-width: 740px) {
 #main-header,.navbar,.container,.container-footer,.thank,.oldnew,.copyright {
